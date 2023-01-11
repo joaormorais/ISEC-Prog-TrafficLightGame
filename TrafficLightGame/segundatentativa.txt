@@ -1,0 +1,91 @@
+
+----------------- RESULTADO FINAL | JOGO: segundatentativa.txt  -----------------
+
+Vitoria por: Jogador A
+
+----------------------------------------------
+Jogada numero: 5
+Jogada feita por: Jogador A
+Jogada feita na coluna: 5
+Jogada feita na linha: 1
+
+Foi jogada uma peca verde
+
+   1 2 3 4 5 
+1  G G G G G
+2  . . . . .
+3  . . . . .
+4  . . . . .
+5  . . . . .
+
+----------------------------------------------
+
+----------------------------------------------
+Jogada numero: 4
+Jogada feita por: Jogador B
+Jogada feita na coluna: 4
+Jogada feita na linha: 1
+
+Foi jogada uma peca verde
+
+   1 2 3 4 5 
+1  G G G G .
+2  . . . . .
+3  . . . . .
+4  . . . . .
+5  . . . . .
+
+----------------------------------------------
+
+----------------------------------------------
+Jogada numero: 3
+Jogada feita por: Jogador A
+Jogada feita na coluna: 3
+Jogada feita na linha: 1
+
+Foi jogada uma peca verde
+
+   1 2 3 4 5 
+1  G G G . .
+2  . . . . .
+3  . . . . .
+4  . . . . .
+5  . . . . .
+
+----------------------------------------------
+
+----------------------------------------------
+Jogada numero: 2
+Jogada feita por: Jogador B
+Jogada feita na coluna: 2
+Jogada feita na linha: 1
+
+Foi jogada uma peca verde
+
+   1 2 3 4 5 
+1  G G . . .
+2  . . . . .
+3  . . . . .
+4  . . . . .
+5  . . . . .
+
+----------------------------------------------
+
+----------------------------------------------
+Jogada numero: 1
+Jogada feita por: Jogador A
+Jogada feita na coluna: 1
+Jogada feita na linha: 1
+
+Foi jogada uma peca verde
+
+   1 2 3 4 5 
+1  G . . . .
+2  . . . . .
+3  . . . . .
+4  . . . . .
+5  . . . . .
+
+----------------------------------------------
+
+----------------------------------------------------------------

@@ -1,0 +1,51 @@
+
+----------------- RESULTADO FINAL | JOGO: vitoria.txt  -----------------
+
+Vitoria por: Jogador A
+
+----------------------------------------------
+Jogada numero: 3
+Jogada feita por: Jogador A
+Jogada feita na coluna: 3
+Jogada feita na linha: 3
+
+Foi jogada uma peca verde
+
+   1 2 3 
+1  G . .
+2  . G .
+3  . . G
+
+----------------------------------------------
+
+----------------------------------------------
+Jogada numero: 2
+Jogada feita por: Jogador B
+Jogada feita na coluna: 2
+Jogada feita na linha: 2
+
+Foi jogada uma peca verde
+
+   1 2 3 
+1  G . .
+2  . G .
+3  . . .
+
+----------------------------------------------
+
+----------------------------------------------
+Jogada numero: 1
+Jogada feita por: Jogador A
+Jogada feita na coluna: 1
+Jogada feita na linha: 1
+
+Foi jogada uma peca verde
+
+   1 2 3 
+1  G . .
+2  . . .
+3  . . .
+
+----------------------------------------------
+
+----------------------------------------------------------------
