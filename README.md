@@ -1,4 +1,4 @@
-# ISEC-TrafficLightGame
+# ISEC-TrafficLightGame (Academic project)
 (Programação)
 (Programming)
 Finished in June 2021
